@@ -1,7 +1,6 @@
 # 🍽️ Restaurant Admin Dashboard
 
-A full-stack Restaurant Admin Dashboard built using the MERN stack.  
-It allows restaurant administrators to manage menu items, track orders, and control availability in real-time.
+Build a restaurant admin dashboard that allows restaurant owners to manage their menu items, view orders, and track inventory. This project will test your ability to create RESTful APIs, query MongoDB efficiently, implement React best practices, and handle real-world scenarios like search optimization and state management.
 
 ---
 
