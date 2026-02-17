@@ -1,7 +1,3 @@
-Here is a clean, professional **README.md** for your project.
-Copy this into your `README.md` file.
-
-```md
 # 🍽️ Restaurant Admin Dashboard
 
 A full-stack Restaurant Admin Dashboard built using the MERN stack.  
