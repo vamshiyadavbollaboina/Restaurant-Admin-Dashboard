@@ -53,7 +53,7 @@ https://restaurant-admin-dashboard-x4h3.onrender.com
 - Production-ready CORS setup
 
 ---
-
+```
 ## 📁 Project Structure
 
 
@@ -74,23 +74,6 @@ restaurant-admin-dashboard/
 └── README.md
 
 ```
-
----
-
-## ⚙️ Environment Variables
-
-Create a `.env` file inside the backend folder:
-
-```
-
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-
-```
-
----
-
-## 🧪 Run Locally
 
 ### 1️⃣ Clone Repository
 
