@@ -148,16 +148,6 @@ Backend runs on:
 
 ---
 
-## 🌍 Production CORS Configuration
-
-Backend allows:
-- localhost (development)
-- All vercel.app deployments
-
-This ensures smooth integration between Vercel frontend and Render backend.
-
----
-
 ## 📌 API Endpoints
 
 ### Menu
