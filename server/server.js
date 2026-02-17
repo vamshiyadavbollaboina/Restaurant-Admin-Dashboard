@@ -8,7 +8,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: "https://restaurant-admin-dashboard-x4h3.onrender.com",
+  origin: ["http://localhost:3000", "https://restaurant-admin-dashboard-2lh2.vercel.app"],
   methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
   credentials: true
 }));
