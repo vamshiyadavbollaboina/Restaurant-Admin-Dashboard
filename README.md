@@ -19,18 +19,11 @@ https://restaurant-admin-dashboard-x4h3.onrender.com
 
 ### Frontend
 - React.js
-- Axios
-- Zustand (State Management)
-- Tailwind CSS
-- Radix UI
 
 ### Backend
 - Node.js
 - Express.js
 - MongoDB
-- Mongoose
-- CORS
-- dotenv
 
 ### Deployment
 - Vercel (Frontend)
@@ -45,15 +38,12 @@ https://restaurant-admin-dashboard-x4h3.onrender.com
 - Edit existing items
 - Delete items
 - Toggle availability
-- Filter by category
-- Search using text index
 - Filter by price range
 
 ### 🧾 Order Management
 - Create orders
 - Auto-generated order number
 - Update order status
-- Pagination support
 - Filter by status
 
 ### 🔐 API Features
@@ -66,7 +56,6 @@ https://restaurant-admin-dashboard-x4h3.onrender.com
 
 ## 📁 Project Structure
 
-```
 
 restaurant-admin-dashboard/
 │
