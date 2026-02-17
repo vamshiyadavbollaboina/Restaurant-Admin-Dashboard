@@ -118,8 +118,6 @@ Backend runs on:
 
 ```
 
----
-
 ## 📌 API Endpoints
 
 ### Menu
@@ -151,4 +149,3 @@ PATCH  /api/orders/:id/status
 ## 👨‍💻 Author
 
 Developed by Vamshi
-```
